@@ -4,4 +4,4 @@ Title:main shell tasks:-
 3- shell permisions
 4-shell i/o
 5- shell init files
-6-shell i/o redirections
+6-shell i/o redictions
